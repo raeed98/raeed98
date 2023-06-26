@@ -10,6 +10,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2F80ED&lines=QA+Automation+Engineer;Always+learning+new+things&center=true&width=500&height=50">
 </p> 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-profile-url)
+
 
 - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
