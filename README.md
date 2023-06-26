@@ -8,8 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2F80ED&lines=QA%2FQC+Automation+Web+Engineer;Always+learning+new+things&center=true&width=500&height=50">
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=2F80ED&lines=QA+Automation+Engineer;Always+learning+new+things&center=true&width=500&height=50">
 </p> 
 
 - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
