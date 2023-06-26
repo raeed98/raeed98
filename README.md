@@ -10,10 +10,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2F80ED&lines=QA+Automation+Engineer;Always+learning+new+things&center=true&width=500&height=50">
 </p> 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-profile-url)
 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
+- 🏢 I'm a QA Autoamtion Engineer at Eastnets
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
